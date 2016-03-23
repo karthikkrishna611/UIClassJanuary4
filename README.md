@@ -2,14 +2,15 @@
 This for demonstration for git tutorial.
 
 
+
 adding a new line here
+
+Added new comments by Vijay 
+
+
 
 New lines have been added
 
 
 <p>adding new line</p>
 
-New lines have been removed
-
-These are the lines created by Jamal
-New lines is being removed
