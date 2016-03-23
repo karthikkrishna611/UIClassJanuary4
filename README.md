@@ -14,6 +14,7 @@ Added new comments by Vijay
 <h1>hello</h1>
 
 New lines have been added
+to the develop branch
 
 This is something new
 <p>adding new line</p>
